@@ -31,8 +31,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -40,8 +40,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
@@ -49,8 +49,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PHP"
+    title="PHP" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -58,8 +58,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
@@ -67,8 +67,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  
@@ -76,8 +76,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LINUX"
+    title="LINUX" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  
@@ -85,8 +85,8 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GIT"
+    title="GIT" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -112,9 +112,3 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 ## 📥 Contact me
 
 📧 **Email:** kaiolinoan@gmail.com
-
-  
-          
-
-
-
