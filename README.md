@@ -97,12 +97,7 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 ## 📊 Statistics
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolinoan&theme=tokyonight&layout=donut&custom_title=Most Used Languages &langs_count=5" 
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolinoan&layout=compact&theme=tokyonight)
 
 
   ## 🚧 Projects
