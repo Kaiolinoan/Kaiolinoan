@@ -112,5 +112,6 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 ## 📥 Contact me
 
 📧 **Email:** kaiolinoan@gmail.com
+<br/>
 💼 **LinkedIn:** https://www.linkedin.com/in/kaio-lino
 
