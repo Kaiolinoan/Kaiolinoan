@@ -102,9 +102,9 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
   ## 🚧 Projects
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiolinoan&repo=So_long&theme=tokyonight)](https://github.com/Kaiolinoan/Common-core)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiolinoan&repo=So_long&theme=tokyonight)](https://github.com/Kaiolinoan/So_long)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiolinoan&repo=Pipex&theme=tokyonight)](https://github.com/Kaiolinoan/Event-site)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiolinoan&repo=Pipex&theme=tokyonight)](https://github.com/Kaiolinoan/Pipex)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiolinoan&repo=Push_swap&theme=tokyonight)](https://github.com/Kaiolinoan/Push_swap)
 
