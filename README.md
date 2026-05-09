@@ -61,7 +61,6 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
 
 ## 🚧 Projects
 
-<p>
   <a href="https://github.com/Kaiolinoan/So_long">
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kaiolinoan&repo=So_long&theme=tokyonight"
@@ -73,14 +72,12 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kaiolinoan&repo=Minishell&theme=tokyonight"
     />
   </a>
-<br>
-<br>
+
   <a href="https://github.com/Kaiolinoan/Push_swap">
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kaiolinoan&repo=Push_swap&theme=tokyonight"
     />
   </a>
-</p>
 
 
 ## 📥 Contact me
