@@ -78,6 +78,12 @@ I'm sharpening my programming skills at **[42 School](https://www.42lisboa.com/p
       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kaiolinoan&repo=Push_swap&theme=tokyonight"
     />
   </a>
+  
+  <a href="https://github.com/Kaiolinoan/Philosophers">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kaiolinoan&repo=Philosophers&theme=tokyonight"
+    />
+  </a>
 
 
 ## 📥 Contact me
